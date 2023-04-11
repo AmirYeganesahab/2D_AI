@@ -1,0 +1,248 @@
+Kat Planı Sınırı kontrolü...
+6 Kat Planı Sınırı bulundu.
+=================================
+[1] katı kontrol ediliyor.
+=================================
+    Kat No = B
+    Kat Taban Kotu = -262
+    Kat Tavan Kotu = 38
+    8 Bağımsız Bölüm / Ortak Alan bulundu.
+    Bağımsız Bölüm No = 1
+------->UYARI : Bağımsız Bölüm Brüt M2 bilgisi bulunamadı
+------->UYARI : Bağımsız Bölüm Net M2 bilgisi bulunamadı
+        Oda Adı = KİLER
+----------->UYARI : Oda penceresi bulunamadı
+    Bağımsız Bölüm No = 2
+------->UYARI : Bağımsız Bölüm Brüt M2 bilgisi bulunamadı
+------->UYARI : Bağımsız Bölüm Net M2 bilgisi bulunamadı
+        Oda Adı = KİLER
+----------->UYARI : Oda penceresi bulunamadı
+    Bağımsız Bölüm No = 3
+------->UYARI : Bağımsız Bölüm Brüt M2 bilgisi bulunamadı
+------->UYARI : Bağımsız Bölüm Net M2 bilgisi bulunamadı
+        Oda Adı = KİLER
+----------->UYARI : Oda penceresi bulunamadı
+    Bağımsız Bölüm No = 4
+------->UYARI : Bağımsız Bölüm Brüt M2 bilgisi bulunamadı
+------->UYARI : Bağımsız Bölüm Net M2 bilgisi bulunamadı
+        Oda Adı = KİLER
+----------->UYARI : Oda penceresi bulunamadı
+    Bağımsız Bölüm No = 5
+------->UYARI : Bağımsız Bölüm Brüt M2 bilgisi bulunamadı
+------->UYARI : Bağımsız Bölüm Net M2 bilgisi bulunamadı
+        Oda Adı = KİLER
+----------->UYARI : Oda penceresi bulunamadı
+    Bağımsız Bölüm No = 6
+------->UYARI : Bağımsız Bölüm Brüt M2 bilgisi bulunamadı
+------->UYARI : Bağımsız Bölüm Net M2 bilgisi bulunamadı
+        Oda Adı = KİLER
+----------->UYARI : Oda penceresi bulunamadı
+    Bağımsız Bölüm No = 7
+------->UYARI : Bağımsız Bölüm Brüt M2 bilgisi bulunamadı
+------->UYARI : Bağımsız Bölüm Net M2 bilgisi bulunamadı
+        Oda Adı = KİLER
+----------->UYARI : Oda penceresi bulunamadı
+=================================
+[2] katı kontrol ediliyor.
+=================================
+    Kat No = Z
+    Kat Taban Kotu = 38
+    Kat Tavan Kotu = 338
+    2 Bağımsız Bölüm / Ortak Alan bulundu.
+    Bağımsız Bölüm No = 1
+------->UYARI : Bağımsız Bölüm No [1] daha önceden girilmiş durumda.
+------->UYARI : Bağımsız Bölüm Brüt M2 bilgisi bulunamadı
+------->UYARI : Bağımsız Bölüm Net M2 bilgisi bulunamadı
+        Oda Adı = ODA
+        Oda Adı = ODA
+        Oda Adı = BANYO
+----------->UYARI : Oda penceresi bulunamadı
+        Oda Adı = SALON
+        Oda Adı = MUTFAK
+        Oda Adı = TUVALET
+----------->UYARI : Oda M2 bilgisi bulunamadı
+----------->UYARI : Oda penceresi bulunamadı
+        Oda Adı = TUVALET
+----------->UYARI : Oda M2 bilgisi bulunamadı
+----------->UYARI : Oda penceresi bulunamadı
+        Oda Adı = HOL
+----------->UYARI : Oda M2 bilgisi bulunamadı
+----------->UYARI : Oda penceresi bulunamadı
+        Oda Adı = N.O.A
+----------->UYARI : Oda M2 bilgisi bulunamadı
+----------->UYARI : Oda kapısı bulunamadı
+----------->UYARI : Oda penceresi bulunamadı
+=================================
+[3] katı kontrol ediliyor.
+=================================
+    Kat No = K1
+    Kat Taban Kotu = 338
+    Kat Tavan Kotu = 638
+    3 Bağımsız Bölüm / Ortak Alan bulundu.
+    Bağımsız Bölüm No = 2
+------->UYARI : Bağımsız Bölüm No [2] daha önceden girilmiş durumda.
+------->UYARI : Bağımsız Bölüm Brüt M2 bilgisi bulunamadı
+------->UYARI : Bağımsız Bölüm Net M2 bilgisi bulunamadı
+        Oda Adı = ODA
+        Oda Adı = ODA
+        Oda Adı = KİLER
+----------->UYARI : Oda penceresi bulunamadı
+        Oda Adı = SALON
+        Oda Adı = MUTFAK
+----------->UYARI : Oda penceresi bulunamadı
+        Oda Adı = TUVALET
+----------->UYARI : Oda M2 bilgisi bulunamadı
+----------->UYARI : Oda penceresi bulunamadı
+        Oda Adı = BANYO
+----------->UYARI : Oda penceresi bulunamadı
+        Oda Adı = HOL
+----------->UYARI : Oda M2 bilgisi bulunamadı
+----------->UYARI : Oda penceresi bulunamadı
+        Oda Adı = N.O.A
+----------->UYARI : Oda M2 bilgisi bulunamadı
+----------->UYARI : Oda kapısı bulunamadı
+----------->UYARI : Oda penceresi bulunamadı
+        Oda Adı = N.O.A
+----------->UYARI : Oda M2 bilgisi bulunamadı
+----------->UYARI : Oda kapısı bulunamadı
+----------->UYARI : Oda penceresi bulunamadı
+    Bağımsız Bölüm No = 3
+------->UYARI : Bağımsız Bölüm No [3] daha önceden girilmiş durumda.
+------->UYARI : Bağımsız Bölüm Brüt M2 bilgisi bulunamadı
+------->UYARI : Bağımsız Bölüm Net M2 bilgisi bulunamadı
+        Oda Adı = ODA
+        Oda Adı = ODA
+        Oda Adı = KİLER
+----------->UYARI : Oda penceresi bulunamadı
+        Oda Adı = SALON
+        Oda Adı = MUTFAK
+----------->UYARI : Oda penceresi bulunamadı
+        Oda Adı = TUVALET
+----------->UYARI : Oda M2 bilgisi bulunamadı
+----------->UYARI : Oda penceresi bulunamadı
+        Oda Adı = BANYO
+----------->UYARI : Oda penceresi bulunamadı
+        Oda Adı = HOL
+----------->UYARI : Oda M2 bilgisi bulunamadı
+----------->UYARI : Oda penceresi bulunamadı
+        Oda Adı = N.O.A
+----------->UYARI : Oda M2 bilgisi bulunamadı
+----------->UYARI : Oda kapısı bulunamadı
+----------->UYARI : Oda penceresi bulunamadı
+=================================
+[4] katı kontrol ediliyor.
+=================================
+    Kat No = K2
+    Kat Taban Kotu = 638
+    Kat Tavan Kotu = 938
+    3 Bağımsız Bölüm / Ortak Alan bulundu.
+    Bağımsız Bölüm No = 4
+------->UYARI : Bağımsız Bölüm No [4] daha önceden girilmiş durumda.
+------->UYARI : Bağımsız Bölüm Brüt M2 bilgisi bulunamadı
+------->UYARI : Bağımsız Bölüm Net M2 bilgisi bulunamadı
+        Oda Adı = ODA
+        Oda Adı = ODA
+        Oda Adı = KİLER
+----------->UYARI : Oda penceresi bulunamadı
+        Oda Adı = SALON
+        Oda Adı = MUTFAK
+----------->UYARI : Oda penceresi bulunamadı
+        Oda Adı = TUVALET
+----------->UYARI : Oda M2 bilgisi bulunamadı
+----------->UYARI : Oda penceresi bulunamadı
+        Oda Adı = BANYO
+----------->UYARI : Oda penceresi bulunamadı
+        Oda Adı = HOL
+----------->UYARI : Oda M2 bilgisi bulunamadı
+----------->UYARI : Oda penceresi bulunamadı
+        Oda Adı = N.O.A
+----------->UYARI : Oda M2 bilgisi bulunamadı
+----------->UYARI : Oda kapısı bulunamadı
+----------->UYARI : Oda penceresi bulunamadı
+        Oda Adı = N.O.A
+----------->UYARI : Oda M2 bilgisi bulunamadı
+----------->UYARI : Oda kapısı bulunamadı
+----------->UYARI : Oda penceresi bulunamadı
+    Bağımsız Bölüm No = 5
+------->UYARI : Bağımsız Bölüm No [5] daha önceden girilmiş durumda.
+------->UYARI : Bağımsız Bölüm Brüt M2 bilgisi bulunamadı
+------->UYARI : Bağımsız Bölüm Net M2 bilgisi bulunamadı
+        Oda Adı = ODA
+        Oda Adı = ODA
+        Oda Adı = KİLER
+----------->UYARI : Oda penceresi bulunamadı
+        Oda Adı = SALON
+        Oda Adı = MUTFAK
+----------->UYARI : Oda penceresi bulunamadı
+        Oda Adı = TUVALET
+----------->UYARI : Oda M2 bilgisi bulunamadı
+----------->UYARI : Oda penceresi bulunamadı
+        Oda Adı = BANYO
+----------->UYARI : Oda penceresi bulunamadı
+        Oda Adı = HOL
+----------->UYARI : Oda M2 bilgisi bulunamadı
+----------->UYARI : Oda penceresi bulunamadı
+        Oda Adı = N.O.A
+----------->UYARI : Oda M2 bilgisi bulunamadı
+----------->UYARI : Oda kapısı bulunamadı
+----------->UYARI : Oda penceresi bulunamadı
+=================================
+[5] katı kontrol ediliyor.
+=================================
+    Kat No = K3
+    Kat Taban Kotu = 938
+    Kat Tavan Kotu = 1238
+    3 Bağımsız Bölüm / Ortak Alan bulundu.
+    Bağımsız Bölüm No = 6
+------->UYARI : Bağımsız Bölüm No [6] daha önceden girilmiş durumda.
+------->UYARI : Bağımsız Bölüm Brüt M2 bilgisi bulunamadı
+------->UYARI : Bağımsız Bölüm Net M2 bilgisi bulunamadı
+        Oda Adı = ODA
+        Oda Adı = ODA
+        Oda Adı = KİLER
+----------->UYARI : Oda penceresi bulunamadı
+        Oda Adı = SALON
+        Oda Adı = MUTFAK
+----------->UYARI : Oda penceresi bulunamadı
+        Oda Adı = TUVALET
+----------->UYARI : Oda M2 bilgisi bulunamadı
+----------->UYARI : Oda penceresi bulunamadı
+        Oda Adı = BANYO
+----------->UYARI : Oda penceresi bulunamadı
+        Oda Adı = HOL
+----------->UYARI : Oda M2 bilgisi bulunamadı
+----------->UYARI : Oda penceresi bulunamadı
+        Oda Adı = N.O.A
+----------->UYARI : Oda M2 bilgisi bulunamadı
+----------->UYARI : Oda kapısı bulunamadı
+----------->UYARI : Oda penceresi bulunamadı
+        Oda Adı = N.O.A
+----------->UYARI : Oda M2 bilgisi bulunamadı
+----------->UYARI : Oda kapısı bulunamadı
+----------->UYARI : Oda penceresi bulunamadı
+    Bağımsız Bölüm No = 7
+------->UYARI : Bağımsız Bölüm No [7] daha önceden girilmiş durumda.
+------->UYARI : Bağımsız Bölüm Brüt M2 bilgisi bulunamadı
+------->UYARI : Bağımsız Bölüm Net M2 bilgisi bulunamadı
+        Oda Adı = ODA
+        Oda Adı = ODA
+        Oda Adı = KİLER
+----------->UYARI : Oda penceresi bulunamadı
+        Oda Adı = SALON
+        Oda Adı = MUTFAK
+----------->UYARI : Oda penceresi bulunamadı
+        Oda Adı = TUVALET
+----------->UYARI : Oda M2 bilgisi bulunamadı
+----------->UYARI : Oda penceresi bulunamadı
+        Oda Adı = BANYO
+----------->UYARI : Oda penceresi bulunamadı
+        Oda Adı = HOL
+----------->UYARI : Oda M2 bilgisi bulunamadı
+----------->UYARI : Oda penceresi bulunamadı
+        Oda Adı = N.O.A
+----------->UYARI : Oda M2 bilgisi bulunamadı
+----------->UYARI : Oda kapısı bulunamadı
+----------->UYARI : Oda penceresi bulunamadı
+=================================
+[6] katı kontrol ediliyor.
+=================================
